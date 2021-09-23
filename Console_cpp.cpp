@@ -2,12 +2,19 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cin << "Enter your name: \n";
-
+    cout << "Hello World!\n";
+    cout << "*****||*************" << endl;
+    cout << "*****||*************" << endl;
+    cout << "*****\\\*************" << endl;
+    cout << "******\\\************" << endl;
+    cout << "******||************" << endl;
+    cout << "*****//*************" << endl;
+    cout << "*****||*************" << endl;
+    return 0;
 }
 
 
