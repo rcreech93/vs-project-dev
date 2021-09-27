@@ -68,7 +68,7 @@ int main(int nNumberOfArgs, char* pszArgs[])
 
 		//Terminate loop if sumSequence returns 0;
 
-		if (accumulatedVale = 0)
+		if (accumulatedValue = 0)
 		{
 			break;
 		}
