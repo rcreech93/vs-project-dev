@@ -13,7 +13,7 @@
 
 using namespace std;
 
-int main(int nNumberOfArgs, char* pszArgs[])
+int main_2(int nNumberOfArgs, char* pszArgs[])
 {
 	//C++ code goes here
 	//
