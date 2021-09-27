@@ -58,7 +58,7 @@ int main(int nNumberOfArgs, char* pszArgs[])
 
 	// Accumulate value
 
-	int accumulatedValue;
+	int accumulatedValue = 0;
 	for (;;)
 	{
 		//Add sequence of numbers entered from keyboard
