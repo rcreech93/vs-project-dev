@@ -1,0 +1,45 @@
+//Main application page
+
+//Randomly generated choose your adventure text game
+
+//Robert Creech
+
+//rcreech93
+
+
+#include <iostream>
+#include <cstdio>
+#include <cstdlib>
+
+
+using namespace std;
+
+//Set aside functions here
+
+int genNum(void)
+{
+    int initialNum, nextNum;
+
+
+    srand (time(NULL));
+
+    cout << "Enter your first choice: ";
+    cin >> initialNum;
+
+    nextNum = rand() % 5 + 1;
+
+    if (initialNum > 0)
+    {
+        initialNum = nextNum;
+
+        if (initialNum = 1)
+        {
+            break;
+        }
+    }
+}
+
+int main(int nNumberOfArgs, char* pszArgs[])
+{
+    cout "First number is : " << genNum(initialNum);
+}
