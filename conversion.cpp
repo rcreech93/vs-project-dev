@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int main(int nNumberOfArgs, char* pszArgs[])
+int main_4(int nNumberOfArgs, char* pszArgs[])
 {
 	//Enter temp in celsius
 	int celsius;

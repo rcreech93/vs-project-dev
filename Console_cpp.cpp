@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main_3()
 {
     cout << "Hello World!\n";
     cout << "*****||*************" << endl;
